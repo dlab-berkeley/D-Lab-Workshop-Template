@@ -20,7 +20,8 @@
 - Don't use italics.
 - Use en-dash for lists.
 - Use `code font` for anything in code like variables, functions, and packages.
-- Use `code font` for menu items (like `Restart Kernel`), and data frame rows/columns.
+- Use `code font` for menu items and UX pathways (like `Restart Kernel` or `Kernel-> Restart`)
+- Use `code font` for data frame rows/columns.
 - When discussing functions, include the trailing parentheses (e.g. `print()`).
 - When discussing methods, include the dot (e.g. `.sum()`).
 - Consistently use emoji for relevant sections. See below for some examples.
