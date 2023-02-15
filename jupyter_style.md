@@ -6,6 +6,8 @@
 
 
 ### General style
+
+- File title is in Title Case, starts with a single digit, and uses underscores to separate between words. We follow APA Style Guide for capitalization: https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case. This means you should not capitalize minor words.
 - Notebook title is H1 and includes Workshop Name: Subtitle
 - Keep the scaffolding at the top and bottom of the template notebook intact
 - Use H1 for main headers that are referred to in the "Sections" section.
