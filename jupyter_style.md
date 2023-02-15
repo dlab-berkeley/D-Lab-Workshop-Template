@@ -9,7 +9,7 @@
 - Notebook title is H1 and includes Workshop Name: Subtitle
 - Keep the scaffolding at the top and bottom of the template notebook intact
 - Use H1 for main headers that are referred to in the "Sections" section.
-- All headers are in Title Case.
+- All headers are in Title Case. We follow APA Style Guide: https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case. This means you should not capitalize minor words.
 - Use H2 for subsections. These do not need to be linked to in the "Sections" section at the top of the notebook.
 - Use H3 headers for subsubsections. Don't go lower than H3 if you can avoid it.
 - Use emoji specified in the "Icons Used in This Notebook" section
