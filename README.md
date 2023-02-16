@@ -3,7 +3,7 @@
 [![Datahub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
 [![Binder](http://mybinder.org/badge.svg)](BINDER_LINK_HERE)
 
-This repository contains the materials for D-Lab [WorkshopName] workshop. Prior experience with [PriorWorkshopWithLink] is assumed.
+This repository contains the materials for D-Lab [WorkshopName] workshop. Prior experience with [DlabWorkshopName](URL) is assumed.
 
 ## Workshop Goals
 
