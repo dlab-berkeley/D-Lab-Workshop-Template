@@ -5,13 +5,19 @@
 
 This repository contains the materials for D-Lab [WorkshopName] workshop. Prior experience with [PriorWorkshopWithLink] is assumed.
 
-## Learning Objectives
+## Workshop Goals
 
 In this workshop, we provide [WorkshopGoal]. First, we’ll cover [Aim1]. Then, we’ll explore [Aim2]. 
 
 Only if necessary: Basic familiarity with [PriorExperience] is assumed. If you are not familiar with material in [PriorWorkshopWithLink], we recommend attending that workshop first.
 
-After this workshop, you will be able to [LearningObjective1]. You will [LearningObjective2] and [LearningObjective3].
+
+## Learning Objectives
+
+After this workshop, you will be able to:
+- [LearningObjective1].
+- [LearningObjective2].
+- [LearningObjective3].
 
 This workshop does not cover the following:
 - [NotCovered1]. These are covered in [DlabWorkshopName](URL).
