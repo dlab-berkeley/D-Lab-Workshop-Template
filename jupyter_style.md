@@ -67,6 +67,15 @@
 - Warnings act as short reminders to participants of common mistakes and errors.
 - See the Jupyter notebook template for an example.
 
+## Poll
+
+- Polls refer to Zoom polls, which can be used as a form of formative assessment.
+- Talk to D-Lab staff if you want to create Zoom polls before adding them in the notebook.
+- Polls use the 📝 memo enoji at the start of the line, followed by boldface **Poll**, followed by the name of the poll.
+- Polls are named with the format {workshop name}{workshop part - poll number}
+- make sure to check if they are **activated** by clicking "Polls/Quizzes" in Zoom.
+- Polls are used without header.
+
 ### Demo
 - Demos can be used at the end of a notebook to show / highlight some advanced functionalities outside the scope of the workshop.
 - Demos use the 🎬 Clapper Board Emoji at the start of the header.
