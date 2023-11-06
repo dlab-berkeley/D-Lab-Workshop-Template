@@ -9,6 +9,8 @@ recommend attending [D-LabWorkshop1](D-LabWorkshop1Link),
 [D-LabWorkshop2](D-LabWorkshop2Link), and
 [AdditionalWorkshopsAsNeeded](LinksToWorkshops) prior to this workshop.
 
+Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
+
 ## Workshop Goals
 
 In this workshop, we provide [WorkshopGoal]. First, we’ll cover [Aim1]. Then,
